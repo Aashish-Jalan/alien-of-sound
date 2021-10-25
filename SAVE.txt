@@ -1,0 +1,7 @@
+https://teachablemachine.withgoogle.com/models/rffUr_cRx/
+
+    font-family: 'Inconsolata', monospace;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', italic;
+font-family: 'Oswald', sans-serif;
+font-family: 'Qahiri', sans-serif;
